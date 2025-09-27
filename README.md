@@ -4,3 +4,4 @@ This project is a smart, automated gate system that simulates a real-world entry
 Automatic Operation: The gate uses an ultrasonic sensor to detect objects.
 Timed Intervals: It remains open for a specific duration before automatically closing.
 Visual & Audible Alerts: A red LED, a green LED, and a buzzer provide clear feedback on the gate's status.
+Simulation link: https://drive.google.com/drive/folders/15niOiWVsig68KVrbeMNDIujV_toTb9kC?usp=sharing
